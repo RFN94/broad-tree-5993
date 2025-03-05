@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "broad-tree-5993",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4d178644-3358-4592-bcf3-155e6df8f6e5",
+      "database_name": "broad-tree-5993-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
